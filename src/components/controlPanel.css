@@ -1,0 +1,46 @@
+.control-panel{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 70px;
+    width: 100%;
+}
+
+.control-panel-top{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding-bottom: 35px;
+}
+
+.control-panel-bottom{
+    display: flex;
+    width: 100%;
+}
+
+.select-controller{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.select{
+    width: 160px;
+}
+
+@media (max-width: 590px) {
+    .control-panel-top{
+        flex-direction: column;
+    }
+
+    .control-panel-bottom{
+        flex-direction: column;
+    }
+
+    .select-controller{
+        padding-bottom: 25px;
+    }
+
+    .select{
+        width: 100%;
+    }
+}
