@@ -1,4 +1,4 @@
-# Home-Assignment-Doonator
+# Home-Assignment-Donator
 
 > Frontend Coding Challenge 
 
