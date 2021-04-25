@@ -2,7 +2,7 @@
 
 > Frontend Coding Challenge 
 
-Goal: Create a UI with section showing recent donors, and a contorl panel above it by which one can add donors.
+Goal: Create a UI with section showing recent donors, and a control panel above it by which one can add donors.
 
 This UI was created in approximately 4 hours
 
